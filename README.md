@@ -1,2 +1,19 @@
+# 言語埋め込みに基づいた物理学分野論文のクラスタ分析
 
-[Google Drive link](https://drive.google.com/file/d/12AqIQoaG6NR0Gn6SHloof01Nr37K11w_/view?usp=drive_link)
+> 計算物理春の学校2026 ポスター発表 補足資料
+
+## 著者
+
+- 増田伊吹^1, 今倉暁^2, 櫻井鉄也^2
+- 1.筑波大学 大学院 システム情報工学研究群, 2.筑波大学 システム情報系
+
+## 補足ファイル(パスワード付き)
+
+[Google Drive で閲覧](https://drive.google.com/file/d/12AqIQoaG6NR0Gn6SHloof01Nr37K11w_/view?usp=drive_link)
+
+## 補足資料
+
+| ファイル | 内容 |
+|---------|----------------|
+| comp_phys_2026_poster | ポスター pdfファイル |
+| dict.md | 論文分類に使用したキーワード辞書（ML/AI: 39語、計算物理: 59語） |
