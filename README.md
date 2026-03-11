@@ -9,7 +9,7 @@
 
 ## 補足ファイル(パスワード付き)
 
-[Google Drive で閲覧](https://drive.google.com/file/d/12AqIQoaG6NR0Gn6SHloof01Nr37K11w_/view?usp=drive_link)
+[Google Drive で閲覧](https://drive.google.com/drive/folders/1_HsRwtEgd6iDNC9epCTF2gzMk2pkFkeT?usp=sharing)
 
 ## 補足資料
 
